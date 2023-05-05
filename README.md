@@ -13,3 +13,6 @@ pyTelegramBotAPI, beautifulsoup4, requests
 ![start_screen](/pics/start_screen.png)
 
 (вместо *Сергей* бот подставит имя пользователя)
+
+Введите любую цифру, и бот пришлет анегдот
+![start_screen](/pics/sent_anekdot.png)
